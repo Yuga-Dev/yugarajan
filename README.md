@@ -1,6 +1,6 @@
 # Yuga Rajan S · Portfolio
 
-Personal site: **https://yuga-dev.github.io**
+Personal site: **https://yuga-dev.github.io/yugarajan**
 
 Senior Software Engineer working on agentic AI (multi-agent orchestration, RAG, MCP) and the .NET and Azure backends behind it.
 
